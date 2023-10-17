@@ -1,6 +1,4 @@
-# Sushi-Master
-Landing page responsive de Sushi développé en HTML CSS & JavaScript
-
+# 🍣 Sushi-Master
 - Comprend un mode sombre et un mode clair.
 - Défilement fluide dans chaque section.
 - Contient des animations lors du défilement.
