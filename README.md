@@ -8,4 +8,6 @@
 
 👨‍💻 Projet réalisé avec la vidéo tutoriel de [Bedimcode](https://www.youtube.com/c/Bedimcode/videos) sur Youtube
 
+▶ [Voir le projet : Sushi-Master](https://skies-land.github.io/Sushi-Master/)
+
 ![preview_Sushi-Master](https://github.com/Skies-Land/Sushi-Master/assets/146822518/47b08681-0a70-404d-af96-a9d198d93092)
